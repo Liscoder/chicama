@@ -1,0 +1,69 @@
+.grupal{
+	padding-top: 100px;
+	background:#383838 url('../img/grupal.jpg') no-repeat;
+	height:660px;
+	background-size:100%;
+	top:100px;
+	width: 100%
+}
+.logo{
+	position: relative;
+	height: 60px;}
+.sumate{
+	background-color:#FAAC1F;
+	margin-right: 50px;
+	position: relative;
+	bottom:5px;
+	
+}
+.suma{
+	padding-top: 10px;
+	height: 50px;
+	text-align: center;
+	font-size: 18px;
+}
+.caja{
+	position:relative;
+    left:100px;
+    bottom:30px;
+}
+.vinculos a{
+text-decoration: none;
+color:black;
+font-size:20px;
+font-family: arial;
+margin:4px;
+}
+.ejes{
+	background-color: white;
+}
+.col-3 img{
+	height: 200px;
+	padding-top: 30px;
+}
+.ejes .cont{
+	margin:40px;
+}
+.ideas{
+	margin-top:4px;
+	width: 250px;
+	text-align: center;
+	border-bottom: 1px solid black;
+}
+.pie{
+background-color:#323230;
+height: 50px;
+width: 100%;
+clear: both;
+margin-top: 20px;
+}
+.info{
+	font-family:arial;
+	font-size: 12px;
+	color:white;
+	padding-top: 20px;
+}
+.color{
+	text-decoration: none;
+	color:blue;
+}
